@@ -1,6 +1,6 @@
  theme: jekyll-theme-minimal
  title: His Eminence's Homepage
- description: main page for the sigma stuff i'm doing
+ description: <center>main page for the sigma stuff i'm doing</center>
  remote_theme: pages-themes/hacker@v0.2.0
  plugins: 
    - jekyll-remote-theme
