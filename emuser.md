@@ -1,3 +1,9 @@
+---
+layout: default
+title: Resume
+permalink: /emuser/
+---
+
 # Resume
 <!-- this page should be hidden so that i don't get my shit leaked on the internet -->
 
