@@ -1,7 +1,20 @@
-@import "{{site.theme}}"
+@import "{{site.theme}}";
 
 .image_area img {
     max-width: 75%;
     max-height: 75%;
     display: block;
+}
+
+.dotted_line {
+    width: 90%;
+    height: 5px;
+    border-top: 5px dotted black;
+    line-height: 80%;
+}
+.hline {
+    width: 90%;
+    height: 5px;
+    border-top: 5px solid black;
+    line-height: 80%;
 }
