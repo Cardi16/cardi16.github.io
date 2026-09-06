@@ -12,7 +12,7 @@ hey guys this is my homepage
 
 {% for post in site.posts limit:5 %}
 
-## [{{ post.title }}]({{ post.url | relative_url }})
+### [{{ post.title }}]({{ post.url | relative_url }})
 
 *{{ post.date | date: "%B %-d, %Y" }}*
 
@@ -20,4 +20,4 @@ hey guys this is my homepage
 
 {% endfor %}
 
-[View all posts →]({{ '/posts/' | relative_url }})
+[View all posts →]({{ '/posts.md/' | relative_url }})
