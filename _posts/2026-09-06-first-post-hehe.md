@@ -2,7 +2,6 @@
 layout: post
 title: "First Post!"
 date: 2026-09-06
-categories: TEST RANDOM
 ---
 
 # first post but it's a test post so watch OUT

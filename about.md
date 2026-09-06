@@ -1,3 +1,9 @@
+---
+layout: default
+title: About and FAQ
+permalink: /about/
+
+---
 
 # what is this site?
 this is my professional-ish website that's supposed to host my resume and other projects I like showing off. frankly, i'm tired of having to re-download my resume every single time that i want to send it back in, so i've decided it's easier to simply host it here on a random page. i didn't take cse11 for nothing!

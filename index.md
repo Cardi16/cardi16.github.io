@@ -1,8 +1,8 @@
-<!-- ---
+---
 layout: Home
 title: Home
---- -->
-
+permalink: /home/
+---
 # test
 
 hey guys this is my homepage
