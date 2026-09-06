@@ -9,5 +9,5 @@ markdown: GFM
 navbar-links:
   Home: "/"
   Posts: "/posts/"
-  About: "/about/"
   Projects: "/proj/projects"
+  About: "/about/"

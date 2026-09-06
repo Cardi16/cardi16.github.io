@@ -31,5 +31,10 @@ yeah, this IS lowkey useless. in an age where AI dominates everything, who gafs 
 
 ## what are your hobbies?
 
-oh god, a litany of things! music (piano, guitar), math (conceptually), studying religion, studying psychology --- studying <i>people</i>, really --- flags... TL;DR --- all my hobbies are unprofitable and i'm going to die poor.
+oh god, a litany of things! music (piano, guitar), math (conceptually), studying religion, studying psychology --- studying <i>people</i>, really --- flags, writing, reading, learning... TL;DR --- all my hobbies are unprofitable and i'm going to die poor.
 
+## religion major. god real? yay or nay
+
+depends on what you view as god. religion itself is real and the feelings that you feel from it are. religion is also lowk everything, not just believing in a god or something. your relationship with your girlfriend could be your god, your universe even. or your funko pop collection. if you're weird like that. 
+
+but anyways personally think Gxd is real and zey're guiding me. praise be to the heavenly host, to the Monarch of heaven and earth. 
