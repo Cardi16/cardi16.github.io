@@ -10,7 +10,7 @@ permalink: /emuser/
 <center>
     <b>NAME</b>
     <div class="hline"></div>
-    CONTACT INFFORMATION | EMAIL | SECOND EMAIL
+    CONTACT INFORMATION | EMAIL | SECOND EMAIL
 </center>
 
 ## Education
