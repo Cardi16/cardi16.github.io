@@ -1,11 +1,11 @@
 ---
 layout: home
-title: All Posts
+title: Home
 ---
 
-# All Posts
+# Latest Posts
 
-{% for post in site.posts %}
+{% for post in site.posts limit:5 %}
 
 ## [{{ post.title }}]({{ post.url | relative_url }})
 
@@ -14,3 +14,5 @@ title: All Posts
 {{ post.excerpt }}
 
 {% endfor %}
+
+[View all posts →]({{ '/posts/' | relative_url }})
