@@ -2,7 +2,7 @@
 <!-- this page should be hidden so that i don't get my shit leaked on the internet -->
 
 <center>
-    <b>Jeneveire "Jen" Acovera</b>
+    <b>NAME</b>
     <div class="hline"></div>
     CONTACT INFFORMATION | EMAIL | SECOND EMAIL
 </center>
