@@ -2,7 +2,6 @@
 layout: default
 title: About and FAQ
 permalink: /about/
-
 ---
 
 # what is this site?
