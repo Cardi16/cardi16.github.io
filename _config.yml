@@ -5,3 +5,8 @@ remote_theme: daattali/beautiful-jekyll
 plugins:
   - jekyll-remote-theme
  markdown: GFM
+
+navbar-links:
+  Home: "/"
+  Posts: "/posts/"
+  About: "/about/"
