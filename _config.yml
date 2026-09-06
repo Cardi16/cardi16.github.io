@@ -1,4 +1,4 @@
-title: Website of His Eminence
+title: His Eminence's Website
 remote_theme: daattali/beautiful-jekyll
 
 plugins:
@@ -10,3 +10,4 @@ navbar-links:
   Home: "/"
   Posts: "/posts/"
   About: "/about/"
+  Projects: "/proj/projects"

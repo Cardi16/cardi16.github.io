@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First Post!"
+title: "test post!"
 date: 2026-09-06
 ---
 first post but it's a test post so watch OUT

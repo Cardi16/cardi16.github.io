@@ -4,7 +4,7 @@ title: Resume
 permalink: /emuser/
 ---
 
-# Resume
+<center><h1>Resume</h1></center>
 <!-- this page should be hidden so that i don't get my shit leaked on the internet -->
 
 <center>
@@ -14,6 +14,9 @@ permalink: /emuser/
 </center>
 
 ## Education
-**<u>B.S. Social Psychology w/ Double Major in Study of Religion</u> @ University of California, San Diego**
+__**<u>B.S. Social Psychology w/ Double Major in Study of Religion</u> @ University of California, San Diego**__
   - __Attended__ 2023 - Present
   - __GPA__ -- erm... can we NOT talk abt that right now...?
+
+## Experience
+__**Job**__
