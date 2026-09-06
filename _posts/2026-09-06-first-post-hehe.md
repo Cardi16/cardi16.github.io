@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "First Post!"
 date: 2026-09-06
 categories: TEST RANDOM
