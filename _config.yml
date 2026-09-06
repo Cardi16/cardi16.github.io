@@ -1,10 +1,9 @@
- theme: jekyll-theme-minimal
  title: Website of His Eminence
-remote_theme: daattali/beautiful-jekyll
+  remote_theme: daattali/beautiful-jekyll
 
 plugins:
   - jekyll-remote-theme
- markdown: GFM
+markdown: GFM
 
 navbar-links:
   Home: "/"
