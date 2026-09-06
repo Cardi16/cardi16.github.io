@@ -2,7 +2,7 @@
 title: Home
 permalink: /
 ---
-# from his eminence's desk
+# encyclical from his eminence's desk
 
 hey guys this is my homepage if you're seeing this it should've loaded......
 
@@ -11,6 +11,7 @@ hey guys this is my homepage if you're seeing this it should've loaded......
 </center>
 
 <div class="dotted_line"></div>
+
 # Latest Posts
 
 {% for post in site.posts limit:5 %}
