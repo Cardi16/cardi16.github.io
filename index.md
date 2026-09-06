@@ -2,7 +2,7 @@
 title: Home
 permalink: /
 ---
-# test
+# from his eminence's desk
 
 hey guys this is my homepage if you're seeing this it should've loaded......
 
@@ -10,7 +10,7 @@ hey guys this is my homepage if you're seeing this it should've loaded......
 <img src="{{ '/assets/mzsa.gif' | relative_url }}">
 </center>
 
-
+<div class="dotted_line"></div>
 # Latest Posts
 
 {% for post in site.posts limit:5 %}
