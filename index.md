@@ -1,7 +1,12 @@
----
+<!-- ---
 layout: Home
 title: Home
----
+--- -->
+
+# test
+
+hey guys this is my homepage
+
 
 # Latest Posts
 
