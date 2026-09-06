@@ -56,9 +56,3 @@ oh god, a litany of things! music (piano, guitar), math (conceptually), studying
 
 
 
-
-
-
-
-
-[secret link](emuser.md)
