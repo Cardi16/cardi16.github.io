@@ -1,8 +1,9 @@
- title: Website of His Eminence
-  remote_theme: daattali/beautiful-jekyll
+title: Website of His Eminence
+remote_theme: daattali/beautiful-jekyll
 
 plugins:
   - jekyll-remote-theme
+
 markdown: GFM
 
 navbar-links:
