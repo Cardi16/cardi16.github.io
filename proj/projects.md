@@ -3,7 +3,7 @@ layout: default
 title: Projects
 permalink: /proj/projects/
 ---
-
+# projects
 <center>
 <img src="{{ '/assets/lumi_michi.png' | relative_url }}">
 </center>

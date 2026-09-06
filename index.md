@@ -4,7 +4,11 @@ permalink: /
 ---
 # test
 
-hey guys this is my homepage
+hey guys this is my homepage if you're seeing this it should've loaded......
+
+<center>
+<img src="{{ '/assets/mzsa.gif' | relative_url }}">
+</center>
 
 
 # Latest Posts
