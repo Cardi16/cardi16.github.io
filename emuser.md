@@ -14,13 +14,13 @@ permalink: /emuser/
 </center>
 
 ## Education
-__**<u>High School Diploma @ Samuel F. B. Morse High School**__
-  - __Attended__ 2019 - 2023
-  - __GPA__ -- 4.25
+**<u>High School Diploma</u> @ Samuel F. B. Morse High School**
+  - **Attended** -- 2019 - 2023
+  - **GPA** -- 4.25
 
-__**<u>B.S. Social Psychology w/ Double Major in Study of Religion</u> @ University of California, San Diego**__
-  - __Attended__ 2023 - Present
-  - __GPA__ -- 3.15
+**<u>B.S. Social Psychology w/ Double Major in Study of Religion</u> @ University of California, San Diego**
+  - **Attended** -- 2023 - Present
+  - **GPA** -- 3.15
 
 ## Skills
   - Copy editing professional, journalistic articles for student publications 
