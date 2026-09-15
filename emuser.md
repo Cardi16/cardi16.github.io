@@ -27,7 +27,8 @@ permalink: /emuser/
   - Writing creatively, academically, and professionally 
   - Programming and software development
     - Version control and workflow 
-    - Java, Python, Git, C, Ruby, Javascript
+    - Terminal-based coding
+    - Java, Python, Git, C, Ruby, Javascript, Assembly
   - Analyzing and interpreting databases
     -  R, data science
   - Retail, customer service, and people-oriented commercial interactions
