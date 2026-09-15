@@ -8,9 +8,9 @@ permalink: /emuser/
 <!-- this page should be hidden so that i don't get my shit leaked on the internet -->
 
 <center>
-    <b>NAME</b>
-    <div class="hline"></div>
-    CONTACT INFORMATION | EMAIL | SECOND EMAIL
+    <b>Jeneveire Acovera</b><br>
+    <!-- 1-619-653-3038 | jacovera5201314@gmail.com | jeacovera@ucsd.edu -->
+    CONTACT | INFORMATION | HERE
 </center>
 
 ## Education
