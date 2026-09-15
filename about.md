@@ -1,13 +1,12 @@
 ---
 layout: default
-title: About and FAQ
+title: About
 permalink: /about/
 ---
 <center><h1>About Me</h1></center>
 Hi, I'm whatever I told you my name was. I really like religion and also doing random stuff that lowkey isn't related to anything that would further my personal and professional development --- hence, this random website that neither a psychology nor a religion major would need. I really like learning about religion, as you can see. I also really like coffee. And playing the piano. That one's a big one for me, actually.
 
-<center><h1>Frequently Asked Questions</h1></center>
-<center><i>just kidding no one has ever asked me anything about stuff on here</i></center>
+<center><h1>Random Questions I Assumed You Might Be Thinking</h1></center>
 
 ## what is this site?
 this is my professional-ish website that's supposed to host my resume and other projects I like showing off. frankly, i'm tired of having to re-download my resume every single time that i want to send it back in, so i've decided it's easier to simply host it here on a random page. i didn't take cse11 for nothing!
