@@ -4,7 +4,7 @@ permalink: /
 ---
 # encyclical from his eminence's desk
 
-hey guys this is my homepage if you're seeing this it should've loaded......
+hi!! this is my professional website. yes i know it looks like a mess right now i've been working on fixing all the links. if something's egregiously wrong, do let me know via any contact method that you know you can reach me at :) ciao!
 
 <center>
 <img src="{{ '/assets/mzsa.gif' | relative_url }}">
